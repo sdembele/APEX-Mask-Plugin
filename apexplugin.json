@@ -1,0 +1,32 @@
+{
+  "name" : "APEX Mask Plugin",
+  "version" : "1.0",
+  "description" : "This plug-in allows to specify a mask for the fields of a form.",
+  "keywords" : ["item", "mask", "format"],
+  "homepage" : "https://github.com/sdembele/ApexAutoNumeric.git",
+  "bugs" : {
+    "url" : "https://github.com/sdembele/ApexAutoNumeric.git/issues",
+    "email" : "dsouleman@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Souleman DEMBELE",
+    "email" : "dsouleman@gmail.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/sdembele/ApexAutoNumeric.git"
+  },
+ "oracle" : {
+    "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
+    "apex": {
+      "versions": ["5.1.0", "5.1.1", "5.1.2", "5.1.3", "5.1.4", "18.1.0", "18.2.0"],
+      "plugin" : {
+        "internalName" : "APEX Mask Plugin",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:4",
+        "previewImage" : "https://github.com/sdembele/ApexAutoNumeric/blob/master/ApexAutoNumeric.gif?raw=true"
+      }
+    }
+  }
+}
