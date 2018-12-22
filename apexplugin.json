@@ -25,7 +25,7 @@
         "internalName" : "APEX Mask Plugin",
         "type" : "item",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:4",
-        "previewImage" : "https://github.com/sdembele/ApexAutoNumeric/blob/master/ApexAutoNumeric.gif?raw=true"
+        "previewImage" : "https://raw.githubusercontent.com/sdembele/APEX-Mask-Plugin/master/APEX-Mask-Plugin.gif?raw=true"
       }
     }
   }
